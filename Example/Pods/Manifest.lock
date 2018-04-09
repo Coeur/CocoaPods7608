@@ -1,0 +1,18 @@
+PODS:
+  - oldies (0.1.0)
+  - oldies/Tests (0.1.0)
+
+DEPENDENCIES:
+  - oldies (from `../`)
+  - oldies/Tests (from `../`)
+
+EXTERNAL SOURCES:
+  oldies:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  oldies: 588638f14194c3df3595288238abf29a99e5d2a5
+
+PODFILE CHECKSUM: b0560034367428cadcbbf111aabbef0e5f2aa80d
+
+COCOAPODS: 1.5.0

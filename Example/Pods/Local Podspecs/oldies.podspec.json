@@ -1,0 +1,29 @@
+{
+  "name": "oldies",
+  "version": "0.1.0",
+  "summary": "A short description of oldies.",
+  "description": "A long description of the pod here.",
+  "homepage": "https://github.com/coeur/oldies",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "coeur": "antoine.coeur@ef.com"
+  },
+  "source": {
+    "git": "https://github.com/coeur/oldies.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "oldies/Classes/**/*",
+  "testspecs": [
+    {
+      "name": "Tests",
+      "test_type": "unit",
+      "source_files": "oldies/Tests/**/*"
+    }
+  ]
+}
